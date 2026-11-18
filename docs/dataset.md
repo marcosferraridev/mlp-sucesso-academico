@@ -2,7 +2,7 @@
 
 Card A1 · Integrante A. Este documento alimenta a seção 2 do relatório.
 
-> **Como ler.** Os números abaixo vêm da execução de `notebooks/01_eda.ipynb` e de `python src/preprocessamento.py` sobre o `data.csv` real. Só o que não dá para tirar dos dados (período da coleta, data de acesso) segue como `[PREENCHER]`.
+> Os números abaixo vêm da execução de `notebooks/01_eda.ipynb` e de `python src/preprocessamento.py` sobre o `data.csv`. O período da coleta vem do artigo de Realinho et al. (2022).
 
 ## 1. Identificação
 
@@ -18,7 +18,7 @@ Card A1 · Integrante A. Este documento alimenta a seção 2 do relatório.
 | Valores ausentes | Nenhum (0 em todas as colunas). Também não há linhas duplicadas (0). |
 | Arquivo | `data/raw/data.csv`, separador `;` |
 
-Referência (rascunho ABNT, conferir): REALINHO, Valentim *et al*. **Predict Students' Dropout and Academic Success**. UCI Machine Learning Repository, 2021. DOI: 10.24432/C5MC89. Acesso em: `[PREENCHER: data]`.
+REALINHO, Valentim *et al*. **Predict Students' Dropout and Academic Success**. UCI Machine Learning Repository, 2021. DOI: 10.24432/C5MC89. Disponível em: https://archive.ics.uci.edu/dataset/697. Acesso em: 18 nov. 2026.
 
 ## 2. Problema e target
 
